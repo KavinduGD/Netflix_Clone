@@ -1,6 +1,6 @@
 const API_KEY = "6aa0eec4cc9a13d8072c87c0b9624e67";
 
-const request = {
+const requests = {
   fetchTrending: `/trending/all/day?api_key=${API_KEY}&language=en-US`,
   fetchNetflixOriginals: `/discover/tv?api_key=${API_KEY}&with_networks=213`,
   fetchTopRated: `/movie/top_rated?api_key=${API_KEY}&language=en-US`,
