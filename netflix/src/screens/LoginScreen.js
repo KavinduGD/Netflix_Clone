@@ -25,7 +25,7 @@ function LoginScreen() {
       </div>
       <div className="loginScreen_body">
         {signIn ? (
-          <signUpScreen />
+          <SignUpScreen />
         ) : (
           <>
             <h1 className="">Unlimited films, TV programmes and more.</h1>
