@@ -1,3 +1,3 @@
 # Netflix_Clone
 
-https://netflix-a68d3.web.app/
+https://mynetflixclone-52906.web.app
